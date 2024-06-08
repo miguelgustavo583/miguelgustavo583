@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá, Eu sou Miguel Gustavo 😄</h1>
+</div>
 
-<!--
-**miguelgustavo583/miguelgustavo583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/miguelgustavo583">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelgustavo583&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgustavo583&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>🧑‍💻 Linguagens De Programação 🧑‍💻</h2>
+  <img width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+  <img width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+  <img width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+  <img width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"> 
+  <img width="50" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"> 
+  <img width="50" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000">                   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>📫 Como me encontrar 📫</h2>
+  <a href="https://www.linkedin.com/in/miguel-gustavo-08672b299" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
