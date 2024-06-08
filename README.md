@@ -20,6 +20,12 @@
 </div>
 
 <div align="center">
+<h1>Sobre mim</h1>
+Olá! Eu sou o Miguel Gustavo, estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Zona Leste. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Minhas principais habilidades incluem Java, JavaScript, HTML, CSS e PHP. Atualmente, estou me aprofundando em React e Node.js para expandir meu conhecimento em desenvolvimento web.
+Além dos projetos acadêmicos, gosto de trabalhar em projetos pessoais e colaborar em projetos open-source. Estou sempre aberto a novas oportunidades de colaboração e aprendizado. 
+</div>
+
+<div align="center">
   <h2>📫 Como me encontrar 📫</h2>
   <a href="https://www.linkedin.com/in/miguel-gustavo-08672b299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
