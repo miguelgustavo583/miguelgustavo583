@@ -21,8 +21,7 @@
 
 <div align="center">
 <h1>Sobre mim</h1>
-Olá! Eu sou o Miguel Gustavo, estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Zona Leste. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Minhas principais habilidades incluem Java, JavaScript, HTML, CSS e PHP. Atualmente, estou me aprofundando em React e Node.js para expandir meu conhecimento em desenvolvimento web.
-Além dos projetos acadêmicos, gosto de trabalhar em projetos pessoais e colaborar em projetos open-source. Estou sempre aberto a novas oportunidades de colaboração e aprendizado. 
+Olá! Eu sou o Miguel Gustavo, estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Zona Leste. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 </div>
 
 <div align="center">
