@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43cfc114-83c0-4fc3-8c79-d86467cdf74d)<div align="center">
+<div align="center">
   <h1>Olá, Eu sou o Miguel Gustavo (‾◡◝)</h1>
 </div>
 
