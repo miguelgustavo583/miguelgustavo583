@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/43cfc114-83c0-4fc3-8c79-d86467cdf74d)<div align="center">
   <h1>Olá, Eu sou o Miguel Gustavo (‾◡◝)</h1>
 </div>
 
@@ -8,6 +8,7 @@
 <div align="center">
   <a href="https://github.com/miguelgustavo583">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelgustavo583&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgustavo583&layout=compact&langs_count=6&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgustavo583&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
@@ -19,7 +20,11 @@
   <img width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
   <img width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"> 
   <img width="50" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"> 
-  <img width="50" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000">                   
+  <img width="50" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000">   
+  <img width="50" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"> 
+  
+  
+  
 </div>
 
 <div align="center">
