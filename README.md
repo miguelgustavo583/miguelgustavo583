@@ -3,7 +3,7 @@
 </div>
 
 > [!NOTE]
-> Olá! Eu sou o Miguel Gustavo, estudante do 3º ano de Desenvolvimento de Sistemas na ETEC Zona Leste. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+> Olá! Eu sou o Miguel Gustavo, estudante do 1º ano de Análise de Desenvolvimento de Sistemas na FATEC Zona Leste. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 <div align="center">
   <a href="https://github.com/miguelgustavo583">
